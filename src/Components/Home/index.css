@@ -1,0 +1,37 @@
+.home-content-container {
+  background-color: #f4cccc;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 5px 10px 50px;
+}
+.first-section-container {
+  width: 700px;
+}
+.rank-para {
+  font-size: 22px;
+  font-weight: 400;
+}
+.rank-heading {
+  font-size: 24px;
+  font-weight: 700;
+}
+span {
+  color: #ff9900;
+}
+.play-store-button {
+  background-color: transparent;
+  border: none;
+}
+.play-store-image {
+  width: 140px;
+  background-color: black;
+  border-radius: 10px;
+}
+
+.ram-mandir-image{
+  width: 70%;
+  
+}

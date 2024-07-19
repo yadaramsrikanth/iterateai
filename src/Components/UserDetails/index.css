@@ -1,0 +1,8 @@
+.userDetails-container {
+  display: flex;
+  flex-direction: column;
+  align-self: flex-end;
+  width: 300px;
+  background-color: aquamarine;
+  height: 600px;
+}
